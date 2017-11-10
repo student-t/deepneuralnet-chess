@@ -1,9 +1,0 @@
-*.zip
-*.gz
-*.bz2
-*.csv
-.DS_Store
-*.ipynb
-.ipynb*
-output
-*.pyc
